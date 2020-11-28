@@ -2,3 +2,6 @@ this is addition
 int a , b, c
 c=a+b;
 print c
+int d
+d=a-b
+print d
