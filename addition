@@ -5,3 +5,6 @@ print c
 int d
 d=a-b
 print d
+this is division
+e = a/b
+print e
