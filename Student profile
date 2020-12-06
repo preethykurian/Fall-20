@@ -1,0 +1,5 @@
+read student name, course, date of join
+if date of join>2015 then
+eligible for council election
+else not.
+
