@@ -2,4 +2,8 @@ read student name, course, date of join
 if date of join>2015 then
 eligible for council election
 else not.
+read stduent cgpa
+if cgpa>3.00 then 
+eligible for presedent position 
+else not
 
